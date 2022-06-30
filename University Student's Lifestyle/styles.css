@@ -1,0 +1,43 @@
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(37,54,100,1.00) 0%,rgba(130,145,215,1.00) 21.75%,rgba(255,253,253,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(37,54,100,1.00) 0%,rgba(130,145,215,1.00) 21.75%,rgba(255,253,253,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(37,54,100,1.00) 0%,rgba(130,145,215,1.00) 21.75%,rgba(255,253,253,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(37,54,100,1.00) 0%,rgba(130,145,215,1.00) 21.75%,rgba(255,253,253,1.00) 100%);
+}
+.container-fluid .container .navbar {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link.disabled {
+    color: #000000;
+}
+.navbar-nav.mr-auto .nav-item .nav-link.disabled {
+    color: #000000;
+}
+.navbar-nav.mr-auto .nav-item .nav-link.disabled {
+    color: #000000;
+}
+.navbar-nav.mr-auto .nav-item .nav-link.disabled {
+    color: #000000;
+}
+.card.col-md-12 .card-body .btn.btn-primary {
+    background-color: #0C1C5A;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #A00DEA;
+    color: #FFFFFF;
+}
+#headingOne1 .mb-0 a {
+    color: #FFFFFF;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #9738DC;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+.container-fluid .container footer {
+    color: #000000;
+}
